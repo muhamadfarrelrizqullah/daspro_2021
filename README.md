@@ -5,7 +5,7 @@ Nama : Muhamad Farrel Rizqullah
 
 Kelas : TI-1E
 
-Absen : 20
+Absen : 19
 
 ## Gambaran Umum
 
